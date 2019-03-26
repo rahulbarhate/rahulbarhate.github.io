@@ -1,4 +1,4 @@
-### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ABOUT &emsp; [ACADEMICS](./academics.md) &emsp; [PROJECTS](./projects.md) &emsp; [INTERNSHIPS](./internships.md) &emsp; [RESEARCH](./research.md) &emsp;[CO-CURRICULAR](./extraCurricular.md)&emsp;
+### ABOUT &emsp; [ACADEMICS](./academics.md) &emsp; [PROJECTS](./projects.md) &emsp; [INTERNSHIPS](./internships.md) &emsp; [RESEARCH](./research.md) &emsp;[CO-CURRICULAR](./extraCurricular.md)&emsp;
 
 #### Hello! Welcome to my page! :)
 

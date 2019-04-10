@@ -1,5 +1,8 @@
 ### ABOUT &emsp; [ACADEMICS](./academics.md) &emsp; [PROJECTS](./projects.md) &emsp; [INTERNSHIPS](./internships.md) &emsp; [RESEARCH](./research.md) &emsp;[CO-CURRICULAR](./extraCurricular.md)&emsp;
 
+-------  
+<img height="30%" width="30%" src="./images/Malaysia photo.jpg" align="middle"/>
+
 #### Hello! Welcome to my page! :)
 
 Hi, I'm Rahul Barhate, a senior at Pune University, India majoring in Information Technology. I am immensely fascinated by the ground-breaking technologies used in the field of Computer Science and Engineering.

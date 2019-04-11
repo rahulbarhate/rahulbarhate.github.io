@@ -1,3 +1,10 @@
 theme: jekyll-theme-cayman
 title: Rahul Barhate
 description: Student | Developer | Mentor
+
+footer-links:
+  email: rahulbarhate97@gmail.com
+  facebook: rahulbarhate97
+  github: rahulbarhate
+  linkedin: rahul-barhate
+  twitter: barhate_rahul

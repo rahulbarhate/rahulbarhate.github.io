@@ -1,4 +1,4 @@
-### [ABOUT](./index.md) &ensp; ACADEMICS &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [RESEARCH](./research.md) &ensp;[CO-CURRICULAR](./extraCurricular.md) &ensp; [TUTORIALS](./tutorials.md) &ensp; [BLOG](./blogs.md)
+#### [ABOUT](./index.md) &ensp; ACADEMICS &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [RESEARCH](./research.md) &ensp;[CO-CURRICULAR](./extraCurricular.md) &ensp; [TUTORIALS](./tutorials.md) &ensp; [BLOG](./blogs.md)
 
 ------- 
 
@@ -15,7 +15,7 @@ I attended [Abhinava Vidyala, Pune](http://www.asm.ac.in/avemps/) as my secondar
 
 Course | Grade
 ------------ | -------------
-|Engineering Mathematics I | B+
+Engineering Mathematics I | B+
 Basic Electrical Engineering | A
 Fundamentals of Programming Languages I | A+
 

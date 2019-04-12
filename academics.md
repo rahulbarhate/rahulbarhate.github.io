@@ -11,6 +11,21 @@ I attended [Abhinava Vidyala, Pune](http://www.asm.ac.in/avemps/) as my secondar
   
 ### Some relevant courses that I took during my engineering include :
 
+The grading scheme as stated by the [Pune University]() can be found [here](http://www.unipune.ac.in/university_files/pdf/CBCS-Handbook-28-7-15.pdf).
+
+Grade | Grade Point
+------------ | -------------
+O | Outstanding
+A+ | Excellent
+A | Very Good
+B+ | Good
+B | Above Average
+C | Average
+P | Pass
+F | Fail
+
+
+
 #### Fall 2015
 
 Course | Grade

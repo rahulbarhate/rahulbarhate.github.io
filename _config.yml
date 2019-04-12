@@ -2,9 +2,21 @@ theme: jekyll-theme-cayman
 title: Rahul Barhate
 description: Student | Developer | Mentor
 
-footer-links:
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+author:
+  name: Rahul Barhate
+
+social-network-links:
+  rss: true
   email: rahulbarhate97@gmail.com
   facebook: rahulbarhate97
   github: rahulbarhate
   linkedin: rahul-barhate
   twitter: barhate_rahul
+
+#footer-links:
+  
+

@@ -1,4 +1,4 @@
-### ABOUT &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [RESEARCH](./research.md) &ensp;[CO-CURRICULAR](./extraCurricular.md)
+#### ABOUT &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [RESEARCH](./research.md) &ensp;[CO-CURRICULAR](./extraCurricular.md) &ensp; [TUTORIALS](./tutorials.md) &ensp; [BLOG](./blogs.md)
 
 -------  
 <img height="20%" width="20%" hspace= "15" src="./images/Malaysia photo.jpg" align="right"/>

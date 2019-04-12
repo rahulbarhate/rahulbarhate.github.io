@@ -1,7 +1,7 @@
 ### ABOUT &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [RESEARCH](./research.md) &ensp;[CO-CURRICULAR](./extraCurricular.md)
 
 -------  
-<img height="20%" width="20%" src="./images/Malaysia photo.jpg" align="right"/>
+<img height="20%" width="20%" hspace= "15" src="./images/Malaysia photo.jpg" align="right"/>
 
 #### Hello! Welcome to my page! :)
 

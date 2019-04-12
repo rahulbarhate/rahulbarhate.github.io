@@ -5,7 +5,7 @@
 
 #### Hello! Welcome to my page! :)
 
-Hi, I'm Rahul Barhate, a senior at Pune University, India majoring in Information Technology. I am immensely fascinated by the ground-breaking technologies used in the field of Computer Science and Engineering.
+Hi, I'm Rahul Barhate, a senior at [Pune University](http://www.unipune.ac.in/), India majoring in Information Technology. I am immensely fascinated by the ground-breaking technologies used in the field of Computer Science and Engineering.
 
 Apart from academics, I hold an interest in crikcet, music and motorsports. I also enjoy learning about and experiencing new cultures. Throughout my engineering journey, I had the privilege of visiting Southeast Asian countries like Singapore, Malaysia and Thailand. I admire their cultures infintely and make a dedicated effort to inculcate their best parts in my personality.
 

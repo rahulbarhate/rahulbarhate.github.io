@@ -1,5 +1,7 @@
 ### [ABOUT](./index.md) &ensp; ACADEMICS &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [RESEARCH](./research.md) &ensp;[CO-CURRICULAR](./extraCurricular.md) &ensp; [TUTORIALS](./tutorials.md) &ensp; [BLOG](./blogs.md)
+
 ------- 
+
 ### ACADEMICS
 I am currently a Senior of Information Technology at [Pune University](http://www.unipune.ac.in), with a CGPA of 8.12.
 

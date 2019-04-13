@@ -79,7 +79,9 @@ Software Engineering and Project Management | A
 Operating Systems | B
 Human Computer Interaction | A
 Database Management Systems Laboratory| A
+Database Management Project | O
 Operating Systems Laboratory | O
+Web Technology Laboratory | O
 
 #### Spring 2017
 
@@ -90,6 +92,20 @@ Systems Programming | B
 Design and Analysis of Algorithms | A+
 Cloud Computing | B+
 Data Science and Big Data Analytics | A
-Systems Programming Laboratory | A+
+Computer Network Technology Laboratory | O
+Systems Programming & Design and Analysis of Algorithms Laboratory | A
+Data Science and Big Data Analytics Laboratory | O
 Project Based Seminar | O
 
+#### Fall 2018
+
+Course | Grade
+------------ | -------------
+Information and Cyber Security | B+
+Machine Learning | A+
+Software Design and Modelling | P
+Business Analytics and Intelligence | B+
+Software Testing and Quality Assurance | 
+Cyber Security and Machine Learning Laboratory | A+
+Software Development And Modelling Laboratory | A
+Project Phase I | O

@@ -2,7 +2,7 @@
 
 ------- 
 
-<img height = 15% width = 15% src="./images/ibmlogo.png" align = "right"/>
+<img height = "15%" width = "15%" src="./images/ibmlogo.png" align = "right"/>
 
 # IBM
 
@@ -10,7 +10,7 @@
 
 - Benchmarked the existing 3D machine learning techniques in use for object/scene regeneration and suggested the use of GANs as an alternative for Simultaneous Localization and Mapping.
 
-<img height = 20% width = 20% src ="./images/tcslogo.png" align = "right"/>
+<img height = "20%" width = "20%" src ="./images/tcslogo.png" align = "right"/>
 
 # Tata Consultancy Sevices
 
@@ -26,7 +26,7 @@ Project: Cloud Plus
 
 - Designed an API that could consume the modules of video calling application along with existing services provided by TCS iON.
 
-<img height = 15% width = 15% src ="./images/persistentlogo.jpg" align = "right"/>
+<img height = "12%" width = "12%" src ="./images/persistentlogo.jpg" align = "right"/>
 
 # Persistent Systems 
 

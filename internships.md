@@ -2,6 +2,8 @@
 
 ------- 
 
-<img src="./images/ibmlogo.jpg" align="let"/>
+<img height = 20% width = 20% src="./images/ibmlogo.jpg" align="let"/>
+
 # IBM
+
 ## Research Intern - (August 2018 - May 2019)

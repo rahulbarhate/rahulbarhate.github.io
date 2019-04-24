@@ -2,7 +2,7 @@
 
 ------- 
 
-<img height = 20% width = 20% src="./images/ibmlogo.jpg" align="let"/>
+<img height = 20% width = 20% src="./images/ibmlogo.jpg" align = "right"/>
 
 # IBM
 

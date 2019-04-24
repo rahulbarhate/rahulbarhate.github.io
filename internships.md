@@ -2,7 +2,7 @@
 
 ------- 
 
-<img height = "15%" width = "15%" src="./images/ibmlogo.png" align = "right"/>
+<img height = "20%" width = "20%" src="./images/ibmlogo.png" align = "right"/>
 
 # IBM
 
@@ -10,7 +10,7 @@
 
 - Benchmarked the existing 3D machine learning techniques in use for object/scene regeneration and suggested the use of GANs as an alternative for Simultaneous Localization and Mapping.
 
-<img height = "25%" width = "25%" src ="./images/tcslogo.png" align = "right"/>
+<img height = "20%" width = "20%" src ="./images/tcslogo.jpg" align = "right"/>
 
 # Tata Consultancy Sevices
 

@@ -10,7 +10,7 @@
 
 - Benchmarked the existing 3D machine learning techniques in use for object/scene regeneration and suggested the use of GANs as an alternative for Simultaneous Localization and Mapping.
 
-<img height = "20%" width = "20%" src ="./images/tcslogo.jpg" align = "right"/>
+<img height = "30%" width = "30%" src ="./images/tcslogo.jpg" align = "right"/>
 
 # Tata Consultancy Sevices
 

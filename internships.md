@@ -5,16 +5,14 @@
 <img height = "25%" width = "25%" src="./images/ibmlogo.png" align = "right"/>
 
 # IBM
-
-## Research Intern - (August 2018 - May 2019)
+### Research Intern - (August 2018 - May 2019)
 
 - Benchmarked the existing 3D machine learning techniques in use for object/scene regeneration and suggested the use of GANs as an alternative for Simultaneous Localization and Mapping.
 
 <img height = "30%" width = "30%" src ="./images/tcslogo.jpg" align = "right"/>
 
 # Tata Consultancy Sevices
-
-## Systems Engineering Intern - (June 2018 - October 2018)
+### Systems Engineering Intern - (June 2018 - October 2018)
 
 Project: Cloud Plus
 
@@ -29,8 +27,7 @@ Project: Cloud Plus
 <img height = "15%" width = "15%" src ="./images/persistentlogo.jpg" align = "right"/>
 
 # Persistent Systems 
-
-## Deep Learning Intern - ()
+### Deep Learning Intern - ()
 
 Project: Face Recognition, Emotion Analysis and Audio Annotation from videos
 

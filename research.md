@@ -25,7 +25,7 @@ an alternative for simultaneous localization and environment mapping.
 
 ### Analysis of Classifiers for Prediction of Type II Diabetes
 
-**4th IEEE International Conference on Computing, Communication, Control And Automation, Pune, India (ICCUBEA, 2018)**
+**IEEE 4th International Conference on Computing, Communication, Control And Automation, Pune, India (ICCUBEA, 2018)**
 
 Abstract : Diabetes mellitus is a chronic disease and a
 health challenge all over the world. As per the International
@@ -50,7 +50,7 @@ Forests performed well on the data set giving an accuracy of
 
 ### Performance Analysis of DML Operations on NoSQL Databases for Streaming Data
 
-**4th IEEE International Conference on Computing, Communication, Control And Automation, Pune, India (ICCUBEA, 2018)**
+**IEEE 4th International Conference on Computing, Communication, Control And Automation, Pune, India (ICCUBEA, 2018)**
 
 Abstract: The processing of streaming data has led to
 major advancements in the fields of finance, security

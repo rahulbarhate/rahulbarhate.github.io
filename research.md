@@ -2,14 +2,14 @@
 
 ------- 
 
-# Computational Evaluation of Distributed Machine Learning Algorithms
+### Computational Evaluation of Distributed Machine Learning Algorithms
 
-## IEEE Technically Co-Sponsored 2019 5th International Conference for Convergence in Technology, Pune (MS),India
+* IEEE Technically Co-Sponsored 2019 5th International Conference for Convergence in Technology, Pune (MS),India *
 
 The paper focuses on the potential improvements in the existing AdaBoost algorithm.
 
 
-# Generative Adversarial Networks as an Advancement in 2D to 3D Reconstruction Techniques
+### Generative Adversarial Networks as an Advancement in 2D to 3D Reconstruction Techniques
 
 ## 3rd International Conference on Data Management, Analytics and Innovation (ICDMAI-2019)
 

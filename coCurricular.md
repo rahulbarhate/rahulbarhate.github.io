@@ -4,7 +4,7 @@
 
 I was invited to adjudicate the 'Hack@ccew,' an Artificial Intelligence Hackathon hosted by MKSS Cummins College of Engineering for Women, Pune, in collaboration with IBM.
 
-<img src="./images/j2.jpg" align = "centre">
+<img height="20%" width="20%" hspace= "15" src="./images/j2.jpg" align = "centre">
 
 Honored to share the stage with distinguished IBM employees and faculty members of Cummins College of Engineering.
 

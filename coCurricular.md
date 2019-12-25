@@ -9,18 +9,19 @@ As an evaluator, I was responsible for judging the student's solution on the fol
 ## Idea and Solution Approach
 
   - Requirement Understanding
-  	- How well does one understand AI driven chatbot in terms of requirements, stakeholders, capability, device compatbility, etc.
+  	-> How well does one understand AI driven chatbot in terms of requirements, stakeholders, capability, device compatbility, etc.
 
-  	- How well does one understand AI driven Personal Assistant in terms of requirements, stakeholders, capability, device compatbility, etc.
+  	-> How well does one understand AI driven Personal Assistant in terms of requirements, stakeholders, capability, device compatbility, etc.
 
-  	-How well does one understand AI minute changes in terms of requirements, stakeholders, capability, device compatbility, etc.
+  	-> How well does one understand AI minute changes in terms of requirements, stakeholders, capability, device compatbility, etc.
 
-  	- How well does one understand AI driven Smart Identification in terms of requirements, stakeholders, capability, device compatbility, etc.
+  	-> How well does one understand AI driven Smart Identification in terms of requirements, stakeholders, capability, device compatbility, etc.
 
   -Requirement Feasibility
-  	-
+  	- Understanding requirement in terms of features, components, innovation, user experience, etc.
 
   - Requirement Feasibility
+  	- Due dilligence to prioritize requirements to include Minimum ViableProducts (MVP) without compromising on the most critical requirements.
 
 
 ## Application and USP

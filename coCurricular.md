@@ -1,6 +1,10 @@
 # Judge
 
-I was invited to adjudicate the 'Hack@CCoEW,' an Artificial Intelligence Hackathon hosted by MKSS Cummins College of Engineering for Women, Pune, in collaboration with IBM.
+<img src="./images/j1.jpg" align = "centre">
+
+I was invited to adjudicate the 'Hack@ccew,' an Artificial Intelligence Hackathon hosted by MKSS Cummins College of Engineering for Women, Pune, in collaboration with IBM.
+
+<img src="./images/j2.jpg" align = "centre">
 
 Honored to share the stage with distinguished IBM employees and faculty members of Cummins College of Engineering.
 
@@ -94,5 +98,5 @@ As an evaluator, I was responsible for judging the student's solution according 
 
 **Additional Points**
  
--Usage of IBM Technology.
+- Usage of IBM Technology.
 

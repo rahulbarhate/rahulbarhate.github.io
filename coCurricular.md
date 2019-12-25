@@ -100,7 +100,7 @@ As an evaluator, I was responsible for judging the student's solution according 
  
 - Usage of IBM Technology.
 
-<img src="./images/j2.jpg" align="right"/> <img src="./images/j3.jpg" align="right"/>
+<img hspace = "15" vspace = "15" src="./images/j2.jpg" align="right"/> <img hspace = "15" vspace = "15" src="./images/j3.jpg" align="right"/>
 
-<img src="./images/j4.jpg" align="right"/> <img src="./images/j5.jpg" align="right"/>
+<img hspace = "15" vspace = "15" src="./images/j4.jpg" align="right"/> <img hspace = "15" vspace = "15" src="./images/j5.jpg" align="right"/>
 

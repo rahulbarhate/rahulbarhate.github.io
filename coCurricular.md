@@ -2,30 +2,33 @@
 
 I was invited to adjudicate the 'Hack@CCoEW', an Artificial Intelligence Hackathon hosted by MKSS Cummins College of Engineering for Women, Pune in collboration with IBM.
 
-Honored to share the stage with distinguished IBM Employees and faculty member of Cummins College of Engineering.
+Honored to share the stage with distinguished IBM employees and faculty member of Cummins College of Engineering.
 
 As an evaluator, I was responsible for judging the student's solution on the following criterias:
 
-#### Idea and Solution Approach
+## Idea and Solution Approach
 
   - Requirement Understanding
-  	- 
-  	-
-  	-
+  	- How well does one understand AI driven chatbot in terms of requirements, stakeholders, capability, device compatbility, etc.
+
+  	- How well does one understand AI driven Personal Assistant in terms of requirements, stakeholders, capability, device compatbility, etc.
+
+  	-How well does one understand AI minute changes in terms of requirements, stakeholders, capability, device compatbility, etc.
+
+  	- How well does one understand AI driven Smart Identification in terms of requirements, stakeholders, capability, device compatbility, etc.
+
+  -Requirement Feasibility
   	-
 
   - Requirement Feasibility
-  	-
-
-  - Requirement Feasibility
 
 
-#### Application and USP
+## Application and USP
 
   - Business Case
-  	-
-  	-
-  	-
+  	- Useful business case?
+  	- Socially relevant?
+  	- Leads to improved efficiency?
 
   - USPs
   	-
@@ -40,14 +43,14 @@ As an evaluator, I was responsible for judging the student's solution on the fol
   - Time Management
   	-
 
-#### Limitation of the solution
+## Limitation of the solution
 
   - Limitations Aspects
   	-
   	-
   	-
 
-#### Technology Stack
+## Technology Stack
 
   - Platform and Technology Selection
   	-
@@ -65,7 +68,7 @@ As an evaluator, I was responsible for judging the student's solution on the fol
   - Device Operability
   	-
 
-#### Q/A
+## Q/A
 
   - Interaction with evaluators
   	-
@@ -74,7 +77,7 @@ As an evaluator, I was responsible for judging the student's solution on the fol
   	-
   	-
 
-#### Bonus Points
+## Bonus Points
 
   - Additional Points
   	- Usage of IBM Technology

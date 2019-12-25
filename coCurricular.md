@@ -101,9 +101,9 @@ As an evaluator, I was responsible for judging the student's solution according 
 - Usage of IBM Technology.
 
 
-<img height="60%" width="60%" hspace="15" src="./images/j2.jpg" class="centre" /> 
-<img height="60%" width="60%" hspace="15" src="./images/j3.jpg" class="centre" />
-<img height="60%" width="60%" hspace="15" src="./images/j4.jpg" class="centre" />
-<img height="60%" width="60%" hspace="15" src="./images/j5.jpg" class="centre" />
+<img height="60%" width="60%" hspace="15" src="./images/j2.jpg" align="midde" /> 
+<img height="60%" width="60%" hspace="15" src="./images/j3.jpg" align="middle"/>
+<img height="60%" width="60%" hspace="15" src="./images/j4.jpg" align="middle"/>
+<img height="60%" width="60%" hspace="15" src="./images/j5.jpg" align="middle"/>
 
 

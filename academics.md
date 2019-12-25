@@ -3,7 +3,7 @@
 ------- 
 
 ### ACADEMICS
-I am currently a senior at [Pune University](http://www.unipune.ac.in), majoring in Information Technology with a CGPA of 8.12.
+I graduated from [Pune University](http://www.unipune.ac.in) with a  major in Information Technology with a CGPA of 8.
 
 I graduated High School from [Fergusson College, Pune](http://www.fergusson.edu/), ranked among the top 20 colleges in India with a score of 84% overall, with Computer Science as my vocational major having a score of 94%.
 
@@ -11,7 +11,7 @@ I attended [Abhinava Vidyala, Pune](http://www.asm.ac.in/avemps/) as my secondar
   
 ### Some relevant courses that I took during my engineering include :
 
-The grading scheme as stated by the [Pune University]() can be found [here](http://www.unipune.ac.in/university_files/pdf/CBCS-Handbook-28-7-15.pdf).
+The grading scheme as stated by the [Pune University](http://www.unipune.ac.in) can be found [here](http://www.unipune.ac.in/university_files/pdf/CBCS-Handbook-28-7-15.pdf).
 
 Grade | Grade Point
 ------------ | -------------

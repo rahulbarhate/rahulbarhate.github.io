@@ -5,7 +5,7 @@
 <img height = "25%" width = "25%" src="./images/ibmlogo.png" align = "right"/>
 
 # IBM
-### Research Intern - (August 2018 - May 2019)
+### Intern - IBM Remote Global Mentoring Program (September 2018 - June 2019)
 
 - Benchmarked the existing 3D machine learning techniques in use for object/scene regeneration and suggested the use of GANs as an alternative for Simultaneous Localization and Mapping.
 
@@ -27,8 +27,8 @@ Project: Cloud Plus
 <img height = "15%" width = "15%" src ="./images/persistentlogo.jpg" align = "right"/>
 
 # Persistent Systems 
-### Deep Learning Intern - ()
+### Deep Learning Intern - (September 2017 - April 2018)
 
-Project: Face Recognition, Emotion Analysis and Audio Annotation from videos
+Project: Face Recognition, Emotion Analysis and Audio Annotation from Videos
 
 Developed an end-to-end workflow for a video search engine that analyses the video/live-stream to extract and store important features such as identity, emotion and objects in a frame. Processing this metadata to deliver search results based on user query.

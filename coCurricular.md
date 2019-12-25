@@ -8,7 +8,7 @@ As an evaluator, I was responsible for judging the student's solution on the fol
 
 ## Idea and Solution Approach
 
-### Requirement Understanding
+* Requirement Understanding *
 
  - How well does one understand AI driven chatbot in terms of requirements, stakeholders, capability, device compatbility, etc.
 

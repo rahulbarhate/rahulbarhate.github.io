@@ -5,7 +5,7 @@
 
 #### Hello! Welcome to my page! :)
 
-<p align="justify">
+<div style="text-align: justify">
 Hi, I'm Rahul Barhate, a senior at [Pune University](http://www.unipune.ac.in/), India majoring in Information Technology. I am immensely fascinated by the ground-breaking technologies used in the field of Computer Science and Engineering.
 
 I had been nominated by the Prime Minister's office to represent India at the Singapore-India Hackathon, 2018. My team finised as the 2nd Runner Up at this event being felicitated by the Prime Minister of India, Mr. Narendra Modi and the Education Minister of Singapore, Mr. Ong Ye Kung.
@@ -16,7 +16,7 @@ I had been nominated by the Prime Minister's office to represent India at the Si
 
 Apart from academics, I hold an interest in crikcet, music and motorsports. I also enjoy learning about and experiencing new cultures. Throughout my engineering journey, I had the privilege of visiting Southeast Asian countries like Singapore, Malaysia and Thailand. I admire their cultures infintely and make a dedicated effort to inculcate their best parts in my personality.
 
-</p>
+</div>
 
 
  &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;

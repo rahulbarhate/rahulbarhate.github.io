@@ -102,14 +102,28 @@ As an evaluator, I was responsible for judging the student's solution according 
 
 <center>
 <img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j2.jpg" /> 
-Sharing a light moment during the product pitch.
-<img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j3.jpg"/>
-Grading the product!
-<img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j4.jpg"/>
-Evaluating product demos.
-<img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j5.jpg"/>	
-Felicitated by the faculty of Cummins College of Engineering.
 </center>
+
+Sharing a light moment during the product pitch.
+
+<center>
+<img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j3.jpg"/>
+</center>
+
+Grading the product!
+
+<center>
+<img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j4.jpg"/>
+</center>
+
+Evaluating product demos.
+
+<center>
+<img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j5.jpg"/>	
+</center>
+
+Felicitated by the faculty of Cummins College of Engineering.
+
 
 
 

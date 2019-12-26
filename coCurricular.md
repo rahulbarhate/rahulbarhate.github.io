@@ -102,6 +102,7 @@ As an evaluator, I was responsible for judging the student's solution according 
 
 <center>
 <img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j2.jpg" /> 
+Sharing a light moment during the product pitch.
 </center>
 
 Sharing a light moment during the product pitch.

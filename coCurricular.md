@@ -100,30 +100,32 @@ As an evaluator, I was responsible for judging the student's solution according 
  
 - Usage of IBM Technology.
 
+### Here are some of the photos from the event:
+
+Sharing a light moment during the product pitch.
 <center>
 <img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j2.jpg" /> 
-Sharing a light moment during the product pitch.
 </center>
 
-Sharing a light moment during the product pitch.
 
+Grading the product!
 <center>
 <img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j3.jpg"/>
 </center>
 
-Grading the product!
 
+Evaluating product demos.
 <center>
 <img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j4.jpg"/>
 </center>
 
-Evaluating product demos.
 
+Felicitated by the faculty member of Cummins College of Engineering.
 <center>
 <img height="60%" width="60%" vspace = "15" hspace="15" src="./images/j5.jpg"/>	
 </center>
 
-Felicitated by the faculty of Cummins College of Engineering.
+
 
 
 

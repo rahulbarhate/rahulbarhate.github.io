@@ -1,10 +1,12 @@
 #### Judge &ensp; [Leadership](./leadership.md) &ensp;
 
 
-
-<img src="./images/j1.jpg" align = "centre">
-
 # Judge
+
+<br>
+<img src="./images/j1.jpg" align = "centre">
+<br>
+
 
 I was invited to adjudicate the 'Hack@ccew,' an Artificial Intelligence Hackathon hosted by MKSS Cummins College of Engineering for Women, Pune, in collaboration with IBM.
 

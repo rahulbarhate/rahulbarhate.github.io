@@ -1,7 +1,7 @@
-# [ABOUT](./index.md) &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [PUBLICATIONS](./research.md) &ensp;[CO-CURRICULAR](./coCurricular.md) &ensp; [OUTREACH](./outreach.md)
+#### [ABOUT](./index.md) &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [PUBLICATIONS](./research.md) &ensp;[CO-CURRICULAR](./coCurricular.md) &ensp; [OUTREACH](./outreach.md)
 
 
-## Judge &ensp; [Leadership](./leadership.md) &ensp;
+### Judge &ensp; [Leadership](./leadership.md) &ensp;
 
 
 ## Judge

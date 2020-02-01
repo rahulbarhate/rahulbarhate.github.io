@@ -9,6 +9,7 @@
 
 - Benchmarked the existing 3D machine learning techniques in use for object/scene regeneration and suggested the use of GANs as an alternative for Simultaneous Localization and Mapping.
 
+- 
 <img height = "30%" width = "30%" src ="./images/tcslogo.jpg" align = "right"/>
 
 # Tata Consultancy Sevices
@@ -31,4 +32,14 @@ Project: Cloud Plus
 
 Project: Face Recognition, Emotion Analysis and Audio Annotation from Videos
 
-Developed an end-to-end workflow for a video search engine that analyses the video/live-stream to extract and store important features such as identity, emotion and objects in a frame. Processing this metadata to deliver search results based on user query.
+Developed an end-to-end workflow for a content-based search engine that analyses the video-stream to extract and store essential features such as identity, emotion and objects in a frame. The metadata is processed to deliver search results based on user query.
+
+Problems addressed during dataset formulation:
+
+- viewpoint variation
+- scale variation
+- intra-class variation
+- image deformation
+- illumination conditions
+- background clutter
+

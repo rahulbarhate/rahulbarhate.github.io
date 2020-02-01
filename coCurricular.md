@@ -1,7 +1,10 @@
-#### Judge &ensp; [Leadership](./leadership.md) &ensp;
+# [ABOUT](./index.md) &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [PUBLICATIONS](./research.md) &ensp;[CO-CURRICULAR](./coCurricular.md) &ensp; [OUTREACH](./outreach.md)
 
 
-# Judge
+## Judge &ensp; [Leadership](./leadership.md) &ensp;
+
+
+## Judge
 
 <br>
 <img src="./images/j1.jpg" align = "centre">

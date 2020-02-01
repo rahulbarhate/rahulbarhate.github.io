@@ -1,3 +1,6 @@
+#### [ABOUT](./index.md) &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [PUBLICATIONS](./research.md) &ensp;CO-CURRICULAR &ensp; [OUTREACH](./outreach.md)
+
+
 #### [Judge](./coCurricular.md) &ensp; Leadership &ensp;
 
 

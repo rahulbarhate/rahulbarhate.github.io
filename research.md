@@ -1,5 +1,4 @@
-#### [ABOUT](./index.md) &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; RESEARCH &ensp;[CO-CURRICULAR](./extraCurricular.md) &ensp; [TUTORIALS](./tutorials.md) &ensp; [BLOG](./blogs.md)
-
+#### [ABOUT](./index.md) &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; RESEARCH &ensp;[CO-CURRICULAR](./coCurricular.md) &ensp; [RESUME](https://github.com/rahulbarhate/rahulbarhate.github.io/raw/master/Rahul%20Barhate.pdf)
 ------- 
 
 ### Computational Evaluation of Distributed Machine Learning Algorithms

@@ -1,4 +1,4 @@
-#### ABOUT &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [PUBLICATIONS](./research.md) &ensp;[CO-CURRICULAR](./coCurricular.md) &ensp; [RESUME](./outreach.md)
+#### ABOUT &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [PUBLICATIONS](./research.md) &ensp;[CO-CURRICULAR](./coCurricular.md) &ensp; [RESUME](https://github.com/rahulbarhate/rahulbarhate.github.io/raw/master/Rahul%20Barhate.pdf)
 
 -------  
 <img height="20%" width="20%" hspace= "15" src="./images/Malaysia photo.jpg" align="right"/>

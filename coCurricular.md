@@ -1,4 +1,4 @@
-#### [ABOUT](./index.md) &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [PUBLICATIONS](./research.md) &ensp;[CO-CURRICULAR](./coCurricular.md) &ensp; [OUTREACH](./outreach.md)
+#### [ABOUT](./index.md) &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; [INTERNSHIPS](./internships.md) &ensp; [RESEAERCH](./research.md) &ensp;[CO-CURRICULAR](./coCurricular.md) &ensp; [RESUME](https://github.com/rahulbarhate/rahulbarhate.github.io/raw/master/Rahul%20Barhate.pdf)
 
 
 ### Judge &ensp; [Leadership](./leadership.md) &ensp;

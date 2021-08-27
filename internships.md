@@ -1,6 +1,6 @@
 #### [ABOUT](./index.md) &ensp; [ACADEMICS](./academics.md) &ensp; [PROJECTS](./projects.md) &ensp; INTERNSHIPS &ensp; [RESEARCH](./research.md) &ensp;[CO-CURRICULAR](./coCurricular.md) &ensp; [RESUME](https://github.com/rahulbarhate/rahulbarhate.github.io/raw/master/Rahul%20Barhate.pdf)
-------- 
 
+-------  
 <img height = "25%" width = "25%" src="./images/ibmlogo.png" align = "right"/>
 
 # IBM

@@ -114,12 +114,3 @@ Course |
 Engineering Mathematics I |
 Basics of Electrical Engineering |
 Fundamentals of Programming Languages I |
-
-
-
-
-
-
-
-
-
